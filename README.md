@@ -3,3 +3,6 @@ This is just an example project to test out my new account and get used to doing
 
 ## Warning
 Do not use this project for anything. It is just used for trying stuff out in github.
+
+## Testing
+This is just used for testing out github features.
